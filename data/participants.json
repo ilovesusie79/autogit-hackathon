@@ -76,5 +76,18 @@
     "tx_hash": "0x757f300cc19b4a818525ca8b04d2471ed4b95a742f9a4770aa6f23cfe23bd00b",
     "vault_address": "0x19B1f740c6fB7b523076d34Eb9A9f17DDe971B32",
     "paid_at": "2026-05-29T07:35:05.682Z"
+  },
+  {
+    "entry_number": 7,
+    "github_id": 285716684,
+    "github_login": "gitbankbot[bot]",
+    "github_avatar": "https://avatars.githubusercontent.com/in/3756628?v=4",
+    "template_title": "Bot Identity Test V2",
+    "app_type": "bot-identity-test-v2-1780041536994",
+    "pr_number": 18,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/18",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
