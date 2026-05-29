@@ -11,5 +11,18 @@
     "tx_hash": "0xca41b14a74f35601b795cc5d57f0c6dd04bbb98adabda41caafd7a829c273b42",
     "vault_address": "0x93A36cCD8309e1E0b18d67c09DFbD7cD3ec7899D",
     "paid_at": "2026-05-29T04:00:00.000Z"
+  },
+  {
+    "entry_number": 2,
+    "github_id": 171657439,
+    "github_login": "Qiu-Difeng",
+    "github_avatar": "https://avatars.githubusercontent.com/u/171657439?v=4",
+    "template_title": "Expense Tracker",
+    "app_type": "expense-tracker",
+    "pr_number": 9,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/9",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
